@@ -1,0 +1,29 @@
+
+.btn{
+    color:white;
+    background-color: blue;
+}
+.btn1::before{
+    content:"\f058";
+    color:white;
+    background-color: blue;
+}
+.btn2::after{
+    content:"\f2192";
+    color:white;
+    background-color: rgb(28, 168, 45);
+}
+#title{
+    background-color: rgb(202, 240, 187);
+    color: rgb(214, 90, 90);
+    margin-right: 970px;
+}
+p{
+    font-size: 16px;
+}
+a:hover {
+    background-color: rgb(165, 237, 165);
+  }
+  h2{
+    background-color: rgb(89, 44, 163);
+  }
